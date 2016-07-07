@@ -1,0 +1,98 @@
+https://www.vhx.tv/admin/tos
+
+VHX TERMS OF SERVICE
+
+Welcome to VHX, a service of VHX Corporation (“VHX”, “we” or “us”). VHX provides you, as the producer of original multimedia content (“Producer” or “you”), a venue on which to offer that content (“Programs”) for download and streaming to other VHX users ("Purchasers").
+
+You will be required to accept this Terms of Service agreement (the “Agreement”) prior to registering with or using VHX. If you do not agree to be bound by the terms of this Agreement, you may not register to use VHX. We may revise and update this Agreement from time to time. If you are a registered user, we will attempt to inform you of any material changes. You may also view the most recent Agreement on the VHX website.
+
+REGISTRATION
+To use VHX, you must register and create an account (“Account”). You agree that all information supplied by you during the registration process is accurate, current, and complete, and that you have the authority to bind any business or entity in whose name you have created an account. Inaccurate or incomplete registration information may result in suspension of your account. You are solely responsible for maintaining the security of your Account and for all activity that occurs under your Account. You agreed to notify us immediately if you suspect any unauthorized access to or use of your Account.
+
+We expressly prohibit individuals younger than 18 years of age from registering with VHX as a Producer. By registering with VHX, you represent that you are 18 years of age or older.
+
+You will be required to create a website on VHX for each Program or set of Programs you make available for sale (each a “Program Site”), either by using one of the website templates we provide or from scratch. VHX will host each Program Site at a unique URL of your choosing, e.g., programtitle.VHX.tv. Additional information regarding the website creation process and requirements will be provided to you.
+
+PRIVACY POLICY
+Our collection and use of information provided by you and your use of VHX is governed by our Privacy Policy, which is incorporated into this Agreement by reference. Please review our Privacy Policy carefully, as it describes what information we collect, and how we use and share that information. By registering with and using VHX, you consent to the terms of our Privacy Policy.
+
+PROGRAM CONTENT
+We rely on Producers to make VHX a vibrant source of creative and interesting video content of all kinds. However, we do have some rules regarding subject matter we do not allow on VHX. You agree that you shall not upload to VHX any Program or Program Site which:
+
+Harasses or advocates harassment of another person.
+Promotes racism, bigotry, hatred or physical harm of any kind against any group or individual.
+Promotes activities or conduct that is abusive, threatening, exploitative, obscene, illegal, defamatory or libelous.
+Infringes, or promotes the infringement of, the rights, including copyright, trademark, and privacy rights, of any third party.
+Violates any law.
+Includes pornographic content.
+We do not have any duty or contractual obligation to monitor VHX for prohibited, inappropriate or unlawful Programs, and assume no responsibility or liability which may arise in connection with such Programs. All opinions and statements expressed by or in Programs are those of the Producer and/or original authors alone, not of VHX. Notwithstanding the foregoing, we reserve the right to review, block and/or remove Programs, in our sole discretion and without notice or liability to you or any third party.
+
+You are solely responsible for securing all necessary rights and permissions in connection with Programs. You represent and warrant that (1) to the extent required by law, all individuals appearing in any Program have expressly granted you permission to appear in such Program, and (2) your use of VHX shall comply with all laws and regulations, state and federal, regarding (a) the appearance in any Program of individuals under the age of 18 years old, and (b) sexually explicit materials, including but not limited to the Child Protection and Obscenity Enforcement Act of 1988.
+
+You understand that Programs you make available through VHX will be available for viewing and purchase by other VHX users. We therefore encourage you to upload with caution – do not upload programs that include any information, images, or other materials you do not wish to be made available to others.
+
+INTELLECTUAL PROPERTY
+PRODUCER CONTENT
+We claim no ownership of any Program a Producer uploads or posts to VHX, or any original works of authorship a Producer uses in the creation of a Program Site. To the extent you own the rights to any Program or Program Site or any elements thereof, you retain those rights solely and exclusively.
+By uploading your Program and Program Site to VHX, you grant to VHX Corporation a non-exclusive, royalty-free, sublicenseable, transferable license to store, host, publish, reproduce, transmit, distribute, publicly perform, display, and otherwise use your Program and Program Site for the purpose of providing the VHX services to its users, including making your Program available for streaming and download by Purchasers. You further grant each Purchaser a non-exclusive license to download and/or stream the Program. These licenses are effective in those territories to which you have authorized distribution of the Program via your account dashboard.
+
+You represent that you have all rights, including intellectual property rights, necessary in order to grant the aforementioned licenses. Each license shall remain in effect for each Program and Program Site until such Program or Program Site is removed from VHX. You acknowledge that in the event a Purchaser forges or “spoofs” his or her internet protocol (“IP”) address, VHX may unknowingly distribute a Program to an unauthorized territory. VHX is not obligated to determine the veracity of any Purchaser’s IP address, and in no case shall VHX be held liable to you or any third party in connection with such distribution.
+
+VHX CONTENT
+VHX, the VHX website, Program Site templates, and all elements thereof, as well as all Purchaser information and data regarding the VHX users and their activity (“VHX Content”) are owned by VHX Corporation and are protected by copyright, trademark, trade secret, and other laws. VHX Corporation owns and retains all rights, including the worldwide copyright, in all elements of VHX Content solely and exclusively, for the duration of the rights in each country, in all languages, and throughout the universe. VHX is a trademark or registered trademark of VHX Corporation.
+
+COPYRIGHT POLICY
+We take claims of copyright infringement seriously. Please refer to our Copyright Policy for an explanation of the steps you should take if you believe any Program made available through VHX, or any element thereof, infringes your copyright.
+
+PROGRAM SALES
+Producers may make Programs available for unlimited streaming and/or download (“Sales”) and for limited-time streaming only as a one-time rental (“Rental”). Producers may also make certain Programs available to users for unlimited streaming on a subscription basis (“Subscription”). Prices will be set by the Producer.
+
+By making programs available for sale Producer agrees to pay fees outlined on our pricing page https://www.vhx.tv/pricing (“VHX Fees”). Producer will be entitled to gross revenue from Purchases and Subscriptions minus the VHX Fees and applicable taxes ("Producer Income").
+
+DIGITAL VAT (VALUE-ADDED TAX) FEES
+Under European Union law, when you sell a Program that is downloaded automatically to a Purchaser living in the EU, VAT (a value-added tax) must be collected based upon the rate that is charged in the country where the Purchaser is located. For your convenience, VHX will automatically increase the amount charged to the Purchaser of the Program to collect the correct amount of VAT, and VHX will remit the VAT to the tax authorities. The VAT amount will depend on the Purchaser’s country of residence.
+
+Important legal note: solely for VAT purposes, when you sell a Program to an EU-based Purchaser, you are legally supplying the item to VHX and VHX will supply the Program to the Purchaser.
+
+PAYOUTS
+Payments of Producer Income will be made within thirty (30) days following the end of each billing period if a Producer has properly connected a payout method. Producer is solely responsible for all applicable taxes in connection with Purchases (excluding taxes on VHX’s net income and digital VAT in the EU). VHX's commission and fees are exclusive of VAT, GST, sales tax or withholding tax, and Producer is solely responsible for self-assessing VAT, GST, or similar sales tax in its jurisdiction.
+
+In order to receive payments of Producer Income, Producers will be required to connect a valid bank account in countries supported by VHX payouts and verify the seller identity. Please review the list of supported countries here. If you are located outside the supported country list contact support@vhx.tv for details. All Producers are required to review and accept the Stripe Connected Account Agreement located here https://stripe.com/connect/account-terms Payouts to non-USD bank accounts will be subject to a 2% conversion fee at the time of payout.
+
+FREE COPIES
+VHX provides Producers with various methods of offering Programs available to VHX users for free. VHX Fees are not applicable to such transactions; rather, VHX charges fees in amounts determined by the number of free copies distributed as described on the VHX website.
+
+DONATIONS
+Producers may choose to donate a portion of their gross revenue to a designated 501(c)(3) organization of their choice. Producers must supply VHX with the organization’s details and may need to assist in facilitating payments. VHX will transfer 100% of donations minus applicable transaction fees (Credit Card, PayPal, Amazon, etc).
+
+AUDIT RIGHTS
+Upon ten (10) days prior notice to VHX, you may appoint a certified public accountant to examine VHX’s records with respect to Producer Income. All such audits must occur during VHX’s normal business hours, and may not occur more than once in any twelve (12) month period. The cost for any such audit shall be borne by you. Should an audit reveal that the VHX has overcharged VHX Fees by five percent (5%) or more, you shall be entitled to a refund in the amount of the overcharge and reimbursement for reasonable costs associated with the audit.
+
+TERMINATION
+This Agreement remains in effect from the moment you create your Account until terminated by you or us. You may terminate this Agreement at any time by deleting your Account as instructed on the VHX website. We reserve the right to (i) terminate or restrict your Account and/or access to VHX, and (ii) remove or restrict access to any Program, for any reason for no reason whatsoever, including if we in our sole discretion consider your use of VHX to be in breach of any term of this Agreement or otherwise unacceptable. We may, but are under no obligation to, provide you with a warning prior to such termination or restriction. We will not be liable to you or any third party for termination or restriction of your Account and/or access. Upon termination of your Account, all Programs you have uploaded will be removed from VHX.
+
+DISCLAIMERS
+VHX CORPORATION PROVIDES VHX ON AN “AS IS” AND “AS AVAILABLE” BASIS, WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED. VHX CORPORATION DISCLAIMS ALL WARRANTIES, EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. VHX Corporation does not warrant or make any representations of any kind regarding VHX, or the use, validity, accuracy, or reliability of, or the results of the use of, or otherwise respecting, VHX or any Program available thereon. Your use of VHX is solely at your own risk. VHX Corporation also makes no representations or warranties that VHX will be uninterrupted or error-free, or with respect to Programs available through VHX.
+
+LIMITATION OF LIABILITY
+To the maximum extent permitted by law, VHX Corporation, its directors, officers, shareholder, employees, representatives, consultants, agents, suppliers, and distributors shall not be liable for (a) any direct, indirect, incidental, special, consequential, or exemplary damages, including but not limited to damages for loss of profits, goodwill, use, data or other intangible losses, or (b) damages relating to any conduct or Program of any VHX user, including without limitation, defamatory, offensive or illegal conduct or Programs. This limitation applies to all claims, whether based on warranty, contract, tort, or any other legal theory, whether or not VHX Corporation has been informed of the possibility of such damage, and further where a remedy set forth herein is found to have failed its essential purpose. Some jurisdictions may not allow the exclusion of certain warranties or the exclusion/limitation of liability as set forth above, so these limitations above may not apply to you.
+
+We are under no obligation to become involved in disputes between users, and are not liable for any damages or loss incurred related to your use of VHX or sales of Programs. You agree that you are solely and exclusively responsible for, must evaluate and make your own judgment about, and bear all risks associated with your interactions with VHX users. Purchases are strictly between Producer and the users, and are not between Producer and VHX or its affiliates.
+
+INDEMNIFICATION
+You agree to indemnify, defend, release, and hold harmless VHX Corporation and its directors, officers, shareholder, employees, representatives, consultants, agents, suppliers, and distributors from any liability, claim, demand, or damages (including attorneys’ fees and costs) of every kind and nature, brought by any third party and arising out of or in any way connected to the following:
+
+Programs you upload, transmit, or otherw communicate to or through VHX, including claims that Program or elements thereof violate the copyright trademark rights of any third party.
+Unauthorized access to or use of any Program by or any third party.
+Disputes between Producers and other VHX users.
+Your use of VHX in violation of this Agreement, applicable law, or any rights of any third party.
+VHX shall indemnify, defend, and hold harmless the Producer from and against any and all claims, demands, liabilities, costs, or expenses (including reasonable attorneys’ fees), resulting from a claim that the VHX service itself violates the intellectual property rights of any third party.
+
+GOVERNING LAW; DISPUTE RESOLUTION
+This Agreement and any action related thereto will be governed by the laws of the State of New York without regard to conflict of law provisions. Except as otherwise provided herein, all disputes which arise pursuant to any breach or alleged breach of this Agreement shall be submitted to JAMS, a national alternative dispute resolution (“ADR”) company, in New York City. JAMS will have full discretion to choose a Neutral, provided that the Neutral to be selected must be experienced in ADR as well as in the issues underlying the dispute. The Neutral will have full and binding authority to evaluate any and all disputes between the parties, and to determine the best method to resolve said disputes, whether through mediation, mini-trial or arbitration, and to issue final and binding decisions fully resolving all disputes. You and VHX agree that ADR is proper to resolve such dispute, and each waives its right to a jury trial. Notwithstanding the forgoing, disputes arising pursuant to Producer’s breach of its representations and warranties with respect to intellectual property rights in and to Programs and Program Content shall be resolved by litigation in the courts of the State of New York, including the federal courts therein, and each party hereto consents to the jurisdiction of such courts, agrees to accept service of process by mail, and hereby waives any jurisdictional or venue defenses otherwise available to it.
+
+GENERAL CONDITIONS
+This Agreement constitutes the entire agreement between you and us, and governs your use of VHX, superseding any prior agreements (including, but not limited to, any prior versions of this Agreement). The failure of VHX Corporation to exercise or enforce any term or provision of this Agreement will not constitute a waiver of such term or provision. If any part of this Agreement is held invalid or unenforceable, that portion will be construed in a manner consistent with applicable law to reflect, as nearly as possible, the original intentions of the parties, and the remaining portions will remain in full force and effect. This Agreement is not assignable or transferable by you without our prior written consent. No agency, partnership, joint venture, employee-employer or franchiser-franchisee relationship is intended or created by this Agreement.
+
+CONTACT US
+If you have any questions or concerns about this Agreement or any VHX Corporation product or service, please don’t hesitate to contact us.
